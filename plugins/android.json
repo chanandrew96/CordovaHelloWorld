@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "helloworld.message.com"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "helloworld.message.com"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "helloworld.message.com"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "helloworld.message.com"
+    }
+  },
+  "dependent_plugins": {}
+}
